@@ -1,4 +1,5 @@
 ## Hi buddies 👋
+### I'm a Student, Script writer, Data Science Learner
 
 - 🔭 I’m currently Data Science Student at VIT vellore
 - 🌱 I’m currently learning Excel for Data Science
